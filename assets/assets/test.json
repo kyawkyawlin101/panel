@@ -1,0 +1,455 @@
+{
+    "status": true,
+    "mdata": [
+        {
+            "league": "Premier League",
+            "date": "Apr 2",
+            "time": "01:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "teams": "Nottm Forest 🆚 Man United",
+            "hteam": "Nottm Forest",
+            "ateam": "Man United",
+            "link": [
+                {
+                    "header": {
+                        "Referer": ""
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://dortaneezsoone.online/live/3/chunks.m3u8"
+                },
+                {
+                    "header": {
+                        "Referer": "https://givemereddit.org/",
+                        "Origin": "https://givemereddit.org"
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://storage.googleapis.com/testpoint-455510/mainstream2/mux_audio/index-1.m3u8"
+                },
+                {
+                    "header": {
+                        "Referer": ""
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://yenasleserikna.website/live/3/chunks.m3u8"
+                },
+                {
+                    "header": {
+                        "Referer": "https://www.soccertvhd.com/",
+                        "Origin": "https://www.soccertvhd.com"
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://pslcaf.downloaderhd.com/pslma/caf.stream/pslma/caf1/chunks.m3u8"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam HD1",
+                    "livelink": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1743536814-0-0-94f0d4b487e4c1745ae31edd2cf96d70"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam SD1",
+                    "livelink": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1743536814-0-0-c6f9fe83d9bba05834fbf0a72a18bd32"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam HD2",
+                    "livelink": "https://pull.niues.live/live/stream-434982_lhd.m3u8?auth_key=1743536815-0-0-8ab424abb1324238d443789833c2253d"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam SD2",
+                    "livelink": "https://pull.niues.live/live/stream-434982_lsd.m3u8?auth_key=1743536815-0-0-9e82ea0717bd4b18164f9f36eb9edfde"
+                }
+            ]
+        },
+        
+        {
+            "league": "Premier League",
+            "date": "Apr 2",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
+            "teams": "Arsenal 🆚 Fulham",
+            "hteam": "Arsenal",
+            "ateam": "Fulham",
+            "link": [
+                {
+                    "header": {
+                        "Referer": ""
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://zelokajjteyu.space/live/1/chunks.m3u8"
+                },
+                {
+                    "header": {
+                        "Referer": "https://givemereddit.org/",
+                        "Origin": "https://givemereddit.org"
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://pacer7s.space/hls/btsport_480p/chunks.m3u8"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam HD1",
+                    "livelink": "https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1743535374-0-0-e37b2341202b90b41d4bf6f17e482bef"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam SD1",
+                    "livelink": "https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1743535374-0-0-511031e89edab1e69beeb9a19c6bcc14"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam HD2",
+                    "livelink": "https://pull.niur.live/live/stream-427856_lhd.m3u8?txSecret=46e4d23b4c5e249ebca2a7b5ea9efc7c&txTime=67ec83d6"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam SD2",
+                    "livelink": "https://pull.niur.live/live/stream-427856_lsd.m3u8?txSecret=617f650ed4ebf7a88925c1f8554362e3&txTime=67ec83d6"
+                }
+            ]
+        },
+        {
+            "league": "King's Cup Semi-Final",
+            "date": "Apr 2",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8577_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101916_small.png",
+            "teams": "Al Ittihad 🆚 Al Shabab",
+            "hteam": "Al Ittihad",
+            "ateam": "Al Shabab",
+            "link": [
+                {
+                    "header": {
+                        "Referer": "https://live.kora-plus.top/",
+                        "origin": "https://live.kora-plus.top"
+                    },
+                    "type": "English HD⭐️",
+                    "livelink": "https://a2.kora-plus.pro/watch/I4E4kC8-94OWT2d676TYUA/1743532204/1743532458/1/ssc1_1.m3u8"
+                },
+                {
+                    "header": {
+                        "Referer": "https://live.kora-plus.top/",
+                        "origin": "https://live.kora-plus.top"
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://a3.kora-plus.pro/watch/CkKtIfH4BFut572gfXL8nA/1743532283/1743532537/1/ssc1_1.m3u8"
+                },
+                
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam HD1",
+                    "livelink": "https://pull.niues.live/live/stream-485739_lhd.m3u8?auth_key=1743532974-0-0-e6a5c2a620c48ad13d402eae5e7e8499"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam SD1",
+                    "livelink": "https://pull.niues.live/live/stream-485739_lsd.m3u8?auth_key=1743532974-0-0-d0d4f8bc96efb0106e7750348f0e4e58"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam HD2",
+                    "livelink": "https://pull.niues.live/live/stream-485739_lhd.m3u8?auth_key=1743532974-0-0-e6a5c2a620c48ad13d402eae5e7e8499"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam SD2",
+                    "livelink": "https://pull.niues.live/live/stream-485739_lsd.m3u8?auth_key=1743532974-0-0-d0d4f8bc96efb0106e7750348f0e4e58"
+                }
+            ]
+        },
+
+        {
+            "league": "Premier League",
+            "date": "Apr 2",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+            "teams": "Wolves 🆚 West Ham",
+            "hteam": "Wolves",
+            "ateam": "West Ham",
+            "link": [
+                {
+                    "header": {
+                        "Referer": ""
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://kankoolnabse.site/live/2/chunks.m3u8"
+                },
+                {
+                    "header": {
+                        "Referer": "https://forgepattern.net/"
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink":"https://yenasleserikna.website/live/2/chunks.m3u8"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam HD1",
+                    "livelink": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1743535734-0-0-94613886c19c4ba6ec4e237b55f77b04"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam SD1",
+                    "livelink": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1743535734-0-0-1981728d36eb19b6edb222cc87ca2cd7"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam HD2",
+                    "livelink": "https://pull.niur.live/live/stream-486629_lhd.m3u8?txSecret=ed521472cf8a96cdde3f7a5650cbe1c2&txTime=67ec8503"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam SD2",
+                    "livelink": "https://pull.niur.live/live/stream-486629_lsd.m3u8?txSecret=d406265fbabe61303f69a57d0b33daa7&txTime=67ec8503"
+                }
+            ]
+        },
+        {
+            "league": "DFB Pokal Semi-Final",
+            "date": "Apr 2",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9912_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+            "teams": "Arminia Bielefeld 🆚 Bayer Leverkusen",
+            "hteam": "Arminia Bielefeld",
+            "ateam": "Bayer Leverkusen",
+            "link": [
+                {
+                    "header": {
+                        "Referer": "https://forgepattern.net/",
+                        "Origin": "https://forgepattern.net"
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://r5mansxhc76fb.cdnnarrow.net:8443/hls/s426q9grik.m3u8?s=DyDCNKIAOPCvflb0x6CwMw&e=1743554475"
+                },
+                {
+                    "header": {
+                        "Referer": "https://forgepattern.net/",
+                        "Origin": "https://forgepattern.net"
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://r5mansxhc76fb.cdnnarrow.net:8443/hls/s426q9grik.m3u8?s=DyDCNKIAOPCvflb0x6CwMw&e=1743554475"
+                },
+                {
+                    "header": {
+                        "Referer": "https://forgepattern.net/",
+                        "Origin": "https://forgepattern.net"
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://r5mansxhc76fb.cdnnarrow.net:8443/hls/s426q9grik.m3u8?s=DyDCNKIAOPCvflb0x6CwMw&e=1743554475"
+                },
+                {
+                    "header": {
+                        "Referer": "https://forgepattern.net/",
+                        "Origin": "https://forgepattern.net"
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://r5mansxhc76fb.cdnnarrow.net:8443/hls/s426q9grik.m3u8?s=DyDCNKIAOPCvflb0x6CwMw&e=1743554475"
+                }
+            ]
+        },
+        {
+            "league": "Italy Coppa Italia Semi-Final",
+            "date": "Apr 2",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
+            "teams": "Empoli 🆚 Bologna",
+            "hteam": "Empoli",
+            "ateam": "Bologna",
+            "link": [
+                
+                {
+                    "header": {
+                        "Referer": ""
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://ezoolambeqolla.online/live/5/chunks.m3u8"
+                },
+                {
+                    "header": {
+                        "Referer": "https://forgepattern.net/",
+                        "Origin": "https://forgepattern.net"
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://r5mansxhc76fb.cdnnarrow.net:8443/hls/71urpyq.m3u8?s=7wXw8ggRkrXn7is-20dklg&e=1743556503"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam HD1",
+                    "livelink": "https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1743537655-0-0-38f2486f9a242b8f076f6b8c0d136d65"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam SD1",
+                    "livelink": "https://pull.niues.live/live/stream-291277_lsd.m3u8?auth_key=1743537655-0-0-162b35f5e412692c9bb971edd1ade27c"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam HD2",
+                    "livelink": "https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1743537895-0-0-a26d65942ac1f4de34d5174b29c4bb7e"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam SD2",
+                    "livelink": "https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1743537895-0-0-bd4967d6052609050a8ddbdca97f6ae2"
+                }
+            ]
+        },
+        
+        {
+            "league": "France Cuoupe de France Semi-Final",
+            "date": "Apr 2",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/47214_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+            "teams": "Dunkerque 🆚 PSG",
+            "hteam": "Dunkerque",
+            "ateam": "PSG",
+            "link": [
+                {
+                    "header": {
+                        "Referer": "https://forgepattern.net/",
+                        "Origin": "https://forgepattern.net"
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://r5mansxhc76fb.cdnnarrow.net:8443/hls/h3nks9hpg.m3u8?s=KvnZhfXSoTBiC4_y8YzBKg&e=1743556379"
+                },
+                {
+                    "header": {
+                        "Referer": "https://illnessstamp.net/",
+                        "Origin": "https://illnessstamp.net"
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://r5mansxhc76fb.cdnnarrow.net:8443/hls/h3nks9hpg.m3u8?s=et5YtqpdJaYc2rM_zQr81Q&e=1743556421"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam HD1",
+                    "livelink": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1743537955-0-0-1d6f40c440650d4bf7aab628ab8e745d"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam SD1",
+                    "livelink": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1743537955-0-0-a6698d713475ee5ed44723fa6f81c07c"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam HD2",
+                    "livelink": "https://pull.niues.live/live/stream-506804_lhd.m3u8?auth_key=1743537955-0-0-6e44f11336ea77d3c0c1cab1a8a89d11"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam SD2",
+                    "livelink": "https://pull.niues.live/live/stream-506804_lsd.m3u8?auth_key=1743537955-0-0-a96913e2852f8f35a49add210b80ce8e"
+                }
+            ]
+        },
+        {
+            "league": "Copa De Ray",
+            "date": "Apr 2",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
+            "teams": "Real Madrid 🆚 Real Sociedad",
+            "hteam": "Real Madrid",
+            "ateam": "Real Sociedad",
+            "link": [
+                {
+                    "header": {
+                        "Referer": ""
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://yenasleserikna.website/live/4/chunks.m3u8"
+                },
+                {
+                    "header": {
+                        "Referer": "https://www.soccertvhd.com/",
+                        "Origin": "https://www.soccertvhd.com"
+                    },
+                    "type": "English FHD⭐️",
+                    "livelink": "https://thirdmed.downloaderhd.com/third/media.stream/third/media1/chunks.m3u8"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam HD1",
+                    "livelink": "https://pull.niues.live/live/stream-336303_lhd.m3u8?auth_key=1743538015-0-0-55e90d5e677d209c71a77e3b84ade60a"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam SD1",
+                    "livelink": "https://pull.niues.live/live/stream-336303_lsd.m3u8?auth_key=1743538015-0-0-34b7d18bac859ac42f23f2f831c18249"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam HD2",
+                    "livelink": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1743538074-0-0-169e182e52ca3037cb4c2cdcc47b3e1d"
+                },
+                {
+                    "header": {
+                        "Referer": "https://socolivesq.com/"
+                    },
+                    "type": "Vietnam SD2",
+                    "livelink": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1743538074-0-0-548d66f980a581711336cf19f24af12c"
+                }
+            ]
+        }
+    ]
+}

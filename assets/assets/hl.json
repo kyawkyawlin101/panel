@@ -1,0 +1,505 @@
+{
+    "league": "FA Cup Quarter-Final",
+    "date": "Mar 29",
+    "time": "01:30 AM",
+    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8411_small.png",
+    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+    "teams": "Preston North End 🆚 Aston Villa",
+    "hteam": "Preston North End",
+    "ateam": "Aston Villa",
+    "link": [
+        {
+            "header": {"Referer": ""},
+            "type": "English FHD⭐️",
+            "livelink": "https://bookizewnamol2.space/live/1/chunks.m3u8"
+        },
+        {
+            "header": {"Referer": "https://alexsports.lat/"},
+            "type": "English FHD⭐️",
+            "livelink": "https://liveuhd.spskjmtaz.site/h8/tracks-v1a1/mono.ts.m3u8"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD1",
+            "livelink": "https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=117c16f5e4bd9493929f1108090684ae&txTime=67e98b78"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD1",
+            "livelink": "https://pull.niur.live/live/stream-414317_lsd.m3u8?txSecret=55f6cdc4f8f247cf57a5b1823ad9d947&txTime=67e98b78"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD2",
+            "livelink": "https://pull.niues.live/live/stream-9912101_lhd.m3u8?auth_key=1743340900-0-0-584c3af85be5661674ca43eccc849e68"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD2",
+            "livelink": "https://pull.niues.live/live/stream-9912101_lsd.m3u8?auth_key=1743340900-0-0-6a035e8b13f0afed54d6501d87b47ee2"
+        }
+    ]
+},
+
+{
+    "league": "Bundesliga",
+    "date": "Mar 30",
+    "time": "live",
+    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
+    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
+    "teams": "SC Freiburg 🆚 Union Berlin",
+    "hteam": "SC Freiburg",
+    "ateam": "Union Berlin",
+    "link": [
+        
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD1",
+            "livelink": "https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1743346600-0-0-2a7f59405296c444f3dfd9f8e5688568"
+                    },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD1",
+            "livelink": "https://pull.niues.live/live/stream-484845_lsd.m3u8?auth_key=1743346600-0-0-3b9779797246decc836086381a83f597"
+                    },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD2",
+            "livelink": "https://pull.niur.live/live/stream-9912035_lhd.m3u8?txSecret=ad37ae90af498f159873e8c2260486e5&txTime=67e9a234"
+                    },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD2",
+            "livelink": "https://pull.niur.live/live/stream-9912035_lsd.m3u8?txSecret=c54af639d47f2b7b2a285b8ff689b764&txTime=67e9a234"
+                     }
+    ]
+},
+{
+    "league": "LaLiga",
+    "date": "Mar 30",
+    "time": "live",
+    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+    "teams": "Barcelona 🆚 Girona",
+    "hteam": "Barcelona",
+    "ateam": "Girona",
+    "link": [
+        {
+            "header": {"Referer": ""},
+            "type": "English FHD⭐️",
+            "livelink": "https://mnefooolamz3.site/live/2/chunks.m3u8"
+        },
+        {
+            "header": {"Referer": "https://alexsports.lat/"},
+            "type": "English FHD⭐️",
+            "livelink": "https://liveuhd.spskjmtaz.site/h4/tracks-v1a1/mono.ts.m3u8"
+                    },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD1",
+            "livelink": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1743346720-0-0-1467367a435d7b7107a58fe67dab851b"
+                    },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD1",
+            "livelink": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1743346720-0-0-20d3585ade8bd35fbc910c5c51d1b933"
+                    },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD2",
+            "livelink": "https://pull.niues.live/live/stream-256080_lhd.m3u8?auth_key=1743346780-0-0-213adf1541742e8b39a8dd5d09587f25"
+                    },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD2",
+            "livelink": "https://pull.niues.live/live/stream-256080_lsd.m3u8?auth_key=1743346780-0-0-71f38ab0bfa87f2b8638a1430c901611"
+                     }
+    ]
+},
+
+{
+    "league": "FA Cup Quarter-Final",
+    "date": "Mar 30",
+    "time": "live",
+    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+    "teams": "Bournemouth 🆚 Man City",
+    "hteam": "Bournemouth",
+    "ateam": "Man City",
+    "link": [
+        {
+            "header": {"Referer": ""},
+            "type": "English FHD⭐️",
+            "livelink": "https://ezoolambeqolla.online/live/1/chunks.m3u8"
+        },
+        {
+            "header": {"Referer": "https://alexsports.lat/"},
+            "type": "English FHD⭐️",
+            "livelink": "https://liveuhd.spskjmtaz.site/h9/tracks-v1a1/mono.ts.m3u8"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD1",
+            "livelink": "https://pull.niur.live/live/stream-499765_lhd.m3u8?txSecret=7dc11c7e953f0c9ac4086e542a67615f&txTime=67e9bcec"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD1",
+            "livelink": "https://pull.niur.live/live/stream-499765_lsd.m3u8?txSecret=e587ab08a1e0c9db0322fd018c5f8048&txTime=67e9bcec"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD2",
+            "livelink": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1743353500-0-0-5b5e088b6735cea4e0bdbdfda3f05691"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD2",
+            "livelink": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1743353500-0-0-0a6400fade496d3325fda3d92e2b4aaa"
+        }
+    ]
+},
+
+{
+    "league": "League 1",
+    "date": "Mar 30",
+    "time": "live",
+    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",
+    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
+    "teams": "Le Havre 🆚 Nantes",
+    "hteam": "Le Havre",
+    "ateam": "Nantes",
+    "link": [
+        
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD1",
+            "livelink": "https://pull.niues.live/live/stream-387694_lhd.m3u8?auth_key=1743351220-0-0-776608024fbf39a87b5bdddc3d9ffbce"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD1",
+            "livelink": "https://pull.niues.live/live/stream-387694_lsd.m3u8?auth_key=1743351220-0-0-532929c9265115a9316eb7641c02c101"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD2",
+            "livelink": "https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1743351340-0-0-c360e10307bb6c0e59cdaac499cf67ce"
+        },  
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD2",
+            "livelink": "https://pull.niues.live/live/stream-511367_lsd.m3u8?auth_key=1743351340-0-0-35dee0282c321cc82831df1d6450c23f"
+        }
+    ]
+},
+{
+    "league": "Ligue 1",
+    "date": "Mar 30",
+    "time": "live",
+    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
+    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
+    "teams": "Auxerre 🆚 Montpellier",
+    "hteam": "Auxerre",
+    "ateam": "Montpellier",
+    "link": [
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD1",
+            "livelink": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=25da73875f5108db61927f871cd8ba73&txTime=67e9b4b8"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD1",
+            "livelink": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=1d878d4f83f089bd9d86790e6aa26c9d&txTime=67e9b4b8"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD2",
+            "livelink": "https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=25da73875f5108db61927f871cd8ba73&txTime=67e9b4b8"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD2",
+            "livelink": "https://pull.niur.live/live/stream-485739_lsd.m3u8?txSecret=1d878d4f83f089bd9d86790e6aa26c9d&txTime=67e9b4b8"
+        }
+    ]
+},
+{
+    "league": "League 1",
+    "date": "Mar 30",
+    "time": "live",
+    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
+    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
+    "teams": "Angers 🆚 Rennes",
+    "hteam": "Angers",
+    "ateam": "Rennes",
+    "link": [
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD1",
+            "livelink": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1743351520-0-0-30bb74ce16d92195ae1f82822d380e74"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD1",
+            "livelink": "https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1743351520-0-0-895dcdc820fa93d0e7877459b2ed9dce"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD2",
+            "livelink": "https://pull.niues.live/live/stream-9912081_lhd.m3u8?auth_key=1743351580-0-0-ce73fce29f6ebf0ed2887e206bd3812c"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD2",
+            "livelink": "https://pull.niues.live/live/stream-9912081_lsd.m3u8?auth_key=1743351580-0-0-2f6db31bf2ce430698c3d1d9b66c73c4"
+        }
+    ]
+},
+{
+    "league": "Bundesliga",
+    "date": "Mar 30",
+    "time": "live",
+    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
+    "teams": "Dortmund 🆚 Mainz 05",
+    "hteam": "Dortmund",
+    "ateam": "Mainz 05",
+    "link": [
+        {
+            "header": {"Referer": "https://alexsports.lat/"},
+            "type": "English FHD⭐️",
+            "livelink": "https://liveuhd.spskjmtaz.site/h20/tracks-v1a1/mono.ts.m3u8"
+        },
+        {
+            "header": {"Referer": "https://alexsports.lat/"},
+            "type": "English FHD⭐️",
+            "livelink": "https://liveuhd.spskjmtaz.site/h20/tracks-v1a1/mono.ts.m3u8"
+        },
+        
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD1",
+            "livelink": "https://pull.niues.live/live/stream-336303_lhd.m3u8?auth_key=1743353440-0-0-81ee7f0625a4b46fc7e6a3650a070706"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD1",
+            "livelink": "https://pull.niues.live/live/stream-336303_lsd.m3u8?auth_key=1743353440-0-0-22b036846e9ae762ca31c9eccf7205dc"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD2",
+            "livelink": "https://pull.niues.live/live/stream-500606_lhd.m3u8?auth_key=1743353440-0-0-538633028c58a921de458175cb2ac611"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD2",
+            "livelink": "https://pull.niues.live/live/stream-500606_lsd.m3u8?auth_key=1743353440-0-0-e3586cddebb6371a2ad410227c5765a5"
+        }
+    ]
+},
+
+{
+    "league": "Serie A",
+    "date": "Mar 30",
+    "time": "live",
+    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+    "teams": "Inter Milan 🆚 Udinese",
+    "hteam": "Inter Milan",
+    "ateam": "Udinese",
+    "link": [
+        {
+            "header": {"Referer": ""},
+            "type": "English FHD⭐️",
+            "livelink": "https://ezoolambeqolla.online/live/4/chunks.m3u8"
+        },
+        {
+            "header": {"Referer": "https://alexsports.lat/"},
+            "type": "English FHD⭐️",
+            "livelink": "https://liveuhd.spskjmtaz.site/h6/tracks-v1a1/mono.ts.m3u8"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD1",
+            "livelink": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1743353920-0-0-bf65fe38f514e8f0d5fffd3246e86832"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD1",
+            "livelink": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1743353920-0-0-413753c4ec511bdd6313503909bfea12"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD2",
+            "livelink": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=9d2045dd1694300f05a93c79ab2a688e&txTime=67e9becc"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD2",
+            "livelink": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=9d2045dd1694300f05a93c79ab2a688e&txTime=67e9becc"
+        }
+    ]
+},
+{
+    "league": "LaLiga",
+    "date": "Mar 30",
+    "time": "live",
+    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
+    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
+    "teams": "Valencia 🆚 Mallorca",
+    "hteam": "Valencia",
+    "ateam": "Mallorca",
+    "link": [
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD1",
+            "livelink": "https://pull.niues.live/live/stream-513774_lhd.m3u8?auth_key=1743355014-0-0-e0ad30c10ed0e589a66a07a716d6145c"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD1",
+            "livelink": "https://pull.niues.live/live/stream-513774_lsd.m3u8?auth_key=1743355014-0-0-234e9afbb23d2bbf2a9dcd92216d77da"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD2",
+            "livelink": "https://pull.niues.live/live/stream-400722_lhd.m3u8?auth_key=1743355074-0-0-c19bab27a04940398a4aa0e3e8620d0c"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD2",
+            "livelink": "https://pull.niues.live/live/stream-400722_lsd.m3u8?auth_key=1743355074-0-0-837705f19f2e73623bdcaff4de3eb95a"
+        }
+    ]
+},
+{
+    "league": "LaLiga",
+    "date": "Mar 30",
+    "time": "live",
+    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
+    "teams": "Athletic Club 🆚 Osasuna",
+    "hteam": "Athletic Club",
+    "ateam": "Osasuna",
+    "link": [
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD1",
+            "livelink": "https://pull.niur.live/live/stream-427856_lhd.m3u8?txSecret=dd00184ea2bc2aa229d9b3f67006e91f&txTime=67e9c312"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD1",
+            "livelink": "https://pull.niur.live/live/stream-427856_lsd.m3u8?txSecret=de3855b80f3e0ba16510270c102f6770&txTime=67e9c312"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD2",
+            "livelink": "https://pull.niues.live/live/stream-506804_lhd.m3u8?auth_key=1743355074-0-0-ba0202752d4f6cbda99532510f4efb37"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD2",
+            "livelink": "https://pull.niues.live/live/stream-506804_lsd.m3u8?auth_key=1743355074-0-0-ed7f4e87937bb7f8131430e6ab519a3b"
+        }
+    ]
+},
+{
+    "league": "Serie A",
+    "date": "Mar 31",
+    "time": "live",
+    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+    "teams": "SSC Napoli 🆚 AC Milan",
+    "hteam": "SSC Napoli",
+    "ateam": "AC Milan",
+    "link": [
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD1",
+            "livelink": "https://pull.niues.live/live/stream-344370_lhd.m3u8?auth_key=1743365094-0-0-f6b21cf57a459a6b4abd9bcaace9a9a9"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD1",
+            "livelink": "https://pull.niues.live/live/stream-344370_lsd.m3u8?auth_key=1743365094-0-0-68fb32f91c9febbca3fdf9a38c45a58a"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD2",
+            "livelink": "https://pull.niues.live/live/stream-299144_lhd.m3u8?auth_key=1743365154-0-0-203345650689816a4c5559c187330572"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD2",
+            "livelink": "https://pull.niues.live/live/stream-299144_lsd.m3u8?auth_key=1743365154-0-0-ff05b5568bb88950a762a6da1eaa44de"
+        }
+    ]
+},
+{
+    "league": "Ligue 1",
+    "date": "Mar 31",
+    "time": "live",
+    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
+    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
+    "teams": "Lille 🆚 Lens",
+    "hteam": "Lille",
+    "ateam": "Lens",
+    "link": [
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD1",
+            "livelink": "https://pull.niues.live/live/stream-506804_lhd.m3u8?auth_key=1743365154-0-0-7e652cc82234b4ea3a5429b65da30ab8"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD1",
+            "livelink": "https://pull.niues.live/live/stream-506804_lsd.m3u8?auth_key=1743365154-0-0-44cba75db201b0edd51969248ab5310a"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD2",
+            "livelink": "https://pull.niues.live/live/stream-511240_lhd.m3u8?auth_key=1743365214-0-0-9f140f6b0631a5f2095f69bb64b26420"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD2",
+            "livelink": "https://pull.niues.live/live/stream-511240_lsd.m3u8?auth_key=1743365214-0-0-d911da950461724d372b412fc22963fd"
+        }
+    ]
+},
+{
+    "league": "LaLiga",
+    "date": "Mar 31",
+    "time": "live",
+    "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
+    "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+    "teams": "Real Betis 🆚 Sevilla",
+    "hteam": "Real Betis",
+    "ateam": "Sevilla",
+    "link": [
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD1",
+            "livelink": "https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1743365334-0-0-84edcc2bb1c88d3add7df0dd3b04772f"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD1",
+            "livelink": "https://pull.niues.live/live/stream-477560_lsd.m3u8?auth_key=1743365334-0-0-c72535a2fb64c09a4f106b37add46f44"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam HD2",
+            "livelink": "https://pull.niues.live/live/stream-336303_lhd.m3u8?auth_key=1743365394-0-0-03ffa9d8e31bc6aa95e858923ed08e41"
+        },
+        {
+            "header": {"Referer": "https://socolivesq.com/"},
+            "type": "Vietnam SD2",
+            "livelink": "https://pull.niues.live/live/stream-336303_lsd.m3u8?auth_key=1743365394-0-0-7109f66c88eb0bd75e8540614a986269"
+        }
+    ]
+}
